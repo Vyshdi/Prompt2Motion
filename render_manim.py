@@ -134,7 +134,12 @@ def generate_manim_script_from_prompt(prompt_text):
     timestamp_ms = int(time.time() * 1000)
     scene_class_name = f"AdvancedScene_{timestamp_ms}"
 
-    valid_color_names = ["RED", "GREEN", "BLUE", "YELLOW", "ORANGE", "PURPLE", "PINK", "WHITE", "BLACK", "GRAY", "LIGHT_GRAY", "DARK_GRAY"]
+    valid_color_names = [
+    "RED", "GREEN", "BLUE", "YELLOW", "ORANGE", "PURPLE", "PINK",
+    "WHITE", "BLACK", "GRAY", "LIGHT_GRAY", "DARK_GRAY",
+    "VIOLET", "MAGENTA", "MAROON", "TEAL"
+]
+
     if initial_color_name not in valid_color_names: initial_color_name = "WHITE"
 
     initial_shape_class_name = initial_shape_type.capitalize()
