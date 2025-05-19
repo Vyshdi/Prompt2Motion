@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/M Saranya/OneDrive/Desktop/Prompt2Motion-main/manim_scenes/media/videos/advancedscene_1747567835240/480p15/partial_movie_files/AdvancedScene_1747567835240/1185818338_2313532385_223132457.mp4'
+file 'file:C:/Users/M Saranya/OneDrive/Desktop/Prompt2Motion-main/manim_scenes/media/videos/advancedscene_1747567835240/480p15/partial_movie_files/AdvancedScene_1747567835240/624642324_2978011379_1686711084.mp4'
+file 'file:C:/Users/M Saranya/OneDrive/Desktop/Prompt2Motion-main/manim_scenes/media/videos/advancedscene_1747567835240/480p15/partial_movie_files/AdvancedScene_1747567835240/624642324_1839128356_1178673772.mp4'
