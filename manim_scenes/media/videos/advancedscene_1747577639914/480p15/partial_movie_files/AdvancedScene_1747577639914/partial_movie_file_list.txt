@@ -1,3 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/M Saranya/OneDrive/Desktop/Prompt2Motion-main/manim_scenes/media/videos/advancedscene_1747577639914/480p15/partial_movie_files/AdvancedScene_1747577639914/1185818338_2313532385_223132457.mp4'
-file 'file:C:/Users/M Saranya/OneDrive/Desktop/Prompt2Motion-main/manim_scenes/media/videos/advancedscene_1747577639914/480p15/partial_movie_files/AdvancedScene_1747577639914/624642324_1839128356_1178673772.mp4'
