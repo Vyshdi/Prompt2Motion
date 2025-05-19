@@ -137,7 +137,7 @@ def generate_manim_script_from_prompt(prompt_text):
     valid_color_names = [
     "RED", "GREEN", "BLUE", "YELLOW", "ORANGE", "PURPLE", "PINK",
     "WHITE", "BLACK", "GRAY", "LIGHT_GRAY", "DARK_GRAY",
-    "VIOLET", "MAGENTA", "MAROON", "TEAL"
+    "VIOLET", 
 ]
 
     if initial_color_name not in valid_color_names: initial_color_name = "WHITE"
