@@ -9,7 +9,7 @@ import json
 import requests
 import math
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 GROQ_MODEL = "llama3-8b-8192"
 
